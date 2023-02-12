@@ -1,0 +1,15 @@
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\bin\Debug\net6.0\Void Methoden.exe
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\bin\Debug\net6.0\Void Methoden.deps.json
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\bin\Debug\net6.0\Void Methoden.runtimeconfig.json
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\bin\Debug\net6.0\Void Methoden.dll
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\bin\Debug\net6.0\Void Methoden.pdb
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\obj\Debug\net6.0\Void Methoden.csproj.AssemblyReference.cache
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\obj\Debug\net6.0\Void Methoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\obj\Debug\net6.0\Void Methoden.AssemblyInfoInputs.cache
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\obj\Debug\net6.0\Void Methoden.AssemblyInfo.cs
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\obj\Debug\net6.0\Void Methoden.csproj.CoreCompileInputs.cache
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\obj\Debug\net6.0\Void Methoden.dll
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\obj\Debug\net6.0\refint\Void Methoden.dll
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\obj\Debug\net6.0\Void Methoden.pdb
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\obj\Debug\net6.0\Void Methoden.genruntimeconfig.cache
+C:\Users\domid\source\Die komplette C# Masterclass\Void Methoden\Void Methoden\obj\Debug\net6.0\ref\Void Methoden.dll
