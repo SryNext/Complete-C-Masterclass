@@ -1,0 +1,15 @@
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\bin\Debug\net6.0\Methoden mit Rückgabewert.exe
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\bin\Debug\net6.0\Methoden mit Rückgabewert.deps.json
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\bin\Debug\net6.0\Methoden mit Rückgabewert.runtimeconfig.json
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\bin\Debug\net6.0\Methoden mit Rückgabewert.dll
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\bin\Debug\net6.0\Methoden mit Rückgabewert.pdb
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\obj\Debug\net6.0\Methoden mit Rückgabewert.csproj.AssemblyReference.cache
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\obj\Debug\net6.0\Methoden mit Rückgabewert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\obj\Debug\net6.0\Methoden mit Rückgabewert.AssemblyInfoInputs.cache
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\obj\Debug\net6.0\Methoden mit Rückgabewert.AssemblyInfo.cs
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\obj\Debug\net6.0\Methoden mit Rückgabewert.csproj.CoreCompileInputs.cache
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\obj\Debug\net6.0\Methoden mit Rückgabewert.dll
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\obj\Debug\net6.0\refint\Methoden mit Rückgabewert.dll
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\obj\Debug\net6.0\Methoden mit Rückgabewert.pdb
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\obj\Debug\net6.0\Methoden mit Rückgabewert.genruntimeconfig.cache
+C:\Users\domid\source\Die komplette C# Masterclass\Methoden mit Rückgabewert\Methoden mit Rückgabewert\obj\Debug\net6.0\ref\Methoden mit Rückgabewert.dll
